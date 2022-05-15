@@ -1,5 +1,5 @@
 # DLT
-A basic python implementation of the normalized DLT algorithm: It follows the steps in algorothm 4.2 from Zisserman Multiple View Geometry (2nd edition)
+A basic python implementation of the normalized DLT algorithm: It follows the steps in algorithm 4.2 from Zisserman Multiple View Geometry (2nd edition)
 
 ## Run
 
